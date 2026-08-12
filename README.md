@@ -49,12 +49,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🐍 Programming
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
 ### 🔧 Tools & Version Control
 
 <p>
@@ -62,18 +56,6 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![Arshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARSHAD-KHAN70&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHAD-KHAN70&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
