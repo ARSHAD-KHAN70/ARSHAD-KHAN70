@@ -69,8 +69,7 @@ I am looking for an opportunity as a **Frontend Developer** where I can apply my
 
 📧 **Email:** harshadkhan9390060@gmail.com
 
-💼 **LinkedIn:** https://www.linkedin.com/in/paniband-arshad
-
+💼 **LinkedIn:** https://www.linkedin.com/in/arshad-paniband-628536421
 🐙 **GitHub:** https://github.com/ARSHAD-KHAN70
 
 ---
